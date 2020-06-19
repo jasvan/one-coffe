@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Goodcoffee</string>
+    <string name="str_user_profile">User profile</string>
+    <string name="str_share">Share</string>
+</resources>
